@@ -44,7 +44,7 @@
   "Config.JunimoScrap.Chatter.Normal": "Нормально",
   "Config.JunimoScrap.Chatter.Always": "Всегда",
   "Config.JunimoScrap.RandomItems.Name": "Случайные Предметы Джунимо",
-  "Config.JunimoScrap.RandomItems.Description": "Если включено, ваши Джунимо могут прислать по почте совершенно случайные вещи. Это могут быть вещи, которые не должны были получить, и создано просто для забавы. Включать на свой страх и риск.",
+  "Config.JunimoScrap.RandomItems.Description": "Если включено, ваши Джунимо могут прислать по почте совершенно случайные вещи. Это могут быть вещи, которые вы не должны были получить, и создано просто для забавы. Включать на свой страх и риск.",
 
   "Config.Carols.Bonus.Name": "Скидка в Магазине",
   "Config.Carols.Bonus.Description": "Процент скидки, применяемый к магазинной цене.",
