@@ -1,0 +1,54 @@
+﻿{
+  "Config.SectionTitle.General": "Общие Настройки",
+  "Config.SectionTitle.EnableDisable": "Включить / Выключить Книги",
+  "Config.SectionTitle.Prices": "Изменить Цену Книг",
+  "Config.SectionTitle.Adjustments": "Настроить Силу Книг",
+  "Config.SectionTitle.Debug": "Параметры Отладки",
+
+  "Config.General.AlwaysAvailable.Name": "Книги Всегда Доступны",
+  "Config.General.AlwaysAvailable.Description": "Если включено, все книги всегда будут доступны у продавца книг без особых условий.",
+
+  "Config.General.Enabled.Name": "Включено",
+  "Config.General.Enabled.Description": "Если выключено, эта книга и её возможности будут недоступны.",
+
+  "Config.General.Price.Description": "Стоимость книги при покупке непосредственно в магазине, а не другими способами. Только целые значения.",
+
+  "Config.Luck.Bonus.Name": "Бонус Удачи",
+  "Config.Luck.Bonus.Description": "Сумма, добавленная к вашему ежедневному значению удачи.",
+
+  "Config.ExtraGifts.Bonus.Name": "Недельный Лимит Подарков",
+  "Config.ExtraGifts.Bonus.Description": "Сколько подарков эта книга позволит вам сделать кому-то за неделю.",
+
+  "Config.ArtisanMachines.GrangeMustWin.Name": "Выставочный Лоток Должен Выиграть",
+  "Config.ArtisanMachines.GrangeMustWin.Description": "Если включено, выставочный лоток должен занять 1-е место и иметь 6+ предметов.,
+  "Config.ArtisanMachines.Bonus.Name": "Бонус Скорости Оборудования",
+  "Config.ArtisanMachines.Bonus.Description": "Процентное сокращение времени работы оборудования для товаров собственного производства.",
+
+  "Config.GiantCrops.Bonus.Name": "Шанс Гигантского Урожая",
+  "Config.GiantCrops.Bonus.Description": "Процентная вероятность появления гигантского урожая за ночь.",
+
+  "Config.Optimization.Bonus.Name": "Добавочный Опыт",
+  "Config.Optimization.Bonus.Description": "Процент увеличения для опыта.",
+
+  "Config.QiNotebook.Bonus.Name": "Шанс Самоцвета Ки",
+  "Config.QiNotebook.Bonus.Description": "Процентный шанс, что самоцвет Ки выпадет в дополнение к обычному шансу.",
+
+  "Config.CheatCodes.Requirement.Name": "Необходимые Смерти в Джунимо Карт",
+  "Config.CheatCodes.Requirement.Description": "Количество, которое нужно умереть в Джунимо Карт, прежде чем книга секретных кодов будет доступна.",
+  "Config.CheatCodes.Bonus.Name": "Дополнительные Жизни",
+  "Config.CheatCodes.Bonus.Description": "Число доп. жизней, с которыми ты начинаешь Джунимо Карт в режиме прохождения.",
+
+  "Config.JunimoScrap.Chatter.Name": "Общительность Джунимо",
+  "Config.JunimoScrap.Chatter.Description": "Как часто над Джунимо будут появляться речевые пузыри. Чем больше значение, тем больше общительность.",
+  "Config.JunimoScrap.Chatter.Never": "Никогда",
+  "Config.JunimoScrap.Chatter.Normal": "Нормально",
+  "Config.JunimoScrap.Chatter.Always": "Всегда",
+  "Config.JunimoScrap.RandomItems.Name": "Случайные Предметы Джунимо",
+  "Config.JunimoScrap.RandomItems.Description": "Если включено, ваши Джунимо могут прислать по почте совершенно случайные вещи. Это могут быть вещи, которые не должны были получить, и создано просто для забавы. Включать на свой страх и риск.",
+
+  "Config.Carols.Bonus.Name": "Скидка в Магазине",
+  "Config.Carols.Bonus.Description": "Процент скидки, применяемый к магазинной цене.",
+
+  "Config.Coffee.Bonus.Name": "Множитель Кофе",
+  "Config.Coffee.Bonus.Description": "Множитель, применяемый к длительности Кофе и Тройного эспрессо.",
+}

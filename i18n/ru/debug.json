@@ -1,0 +1,8 @@
+﻿{
+  "Debug.RemoveAll.Book.Name": "Удаление Способностей BEB",
+  "Debug.RemoveAll.Book.Description": "Удаляет все способности, полученные от Button's Extra Books, и возвращает вам соответствующие книги.",
+  "Debug.RemoveAll.Book.Message": "Ты лишился всех способностей от мода",
+  
+  "Config.Debug.EnableDebugBook.Name": "Включить Отладочную Книгу",
+  "Config.Debug.EnableDebugBook.Description": "Если включено, у Пьера появится отладочная книга, которая удалит все способности, полученные от этого мода."
+}

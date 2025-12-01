@@ -1,0 +1,38 @@
+﻿{
+  "Dialogue.EnoughGifts": "Вы дали {0}, достаточно уже подарков!",
+
+  "Dialogue.JunimoScrap.Harvest.1": "{0}",
+  "Dialogue.JunimoScrap.Harvest.2": "*чав-чав*",
+  "Dialogue.JunimoScrap.Harvest.3": "*хрум*",
+  "Dialogue.JunimoScrap.Harvest.4": "*ням*",
+  "Dialogue.JunimoScrap.Harvest.5": "Эта мне?", // The grammar is wrong on purpose!
+  "Dialogue.JunimoScrap.Harvest.6": "Ооох!",
+  "Dialogue.JunimoScrap.Harvest.7": "Ням-ням!",
+
+  // {0} will be the name of a crop e.g. "Yummy Parsnip!" Please put the adjective in the correct position relative to the noun for your language!
+  "Dialogue.JunimoScrap.CropAdjective.1": "Вкусный {0}!",
+  "Dialogue.JunimoScrap.CropAdjective.2": "Сочный {0}!",
+  "Dialogue.JunimoScrap.CropAdjective.3": "Вкуснейший {0}!",
+  "Dialogue.JunimoScrap.CropAdjective.4": "Аппетитный {0}!",
+  "Dialogue.JunimoScrap.CropAdjective.5": "Большой {0}!",
+  "Dialogue.JunimoScrap.CropAdjective.6": "Мягкий {0}!",
+  "Dialogue.JunimoScrap.CropAdjective.7": "Свежий {0}!",
+  "Dialogue.JunimoScrap.CropAdjective.8": "Спелый {0}!",
+
+  "Dialogue.JunimoScrap.DroppedItem.1": "Ой...",
+  "Dialogue.JunimoScrap.DroppedItem.2": "Ой-ой!",
+  "Dialogue.JunimoScrap.DroppedItem.3": "Прости!",
+  "Dialogue.JunimoScrap.DroppedItem.4": "Извини...",
+  "Dialogue.JunimoScrap.DroppedItem.5": "Слишком много!",
+
+  "Dialogue.JunimoScrap.ExitHut.1": "Милая фермочка!",
+  "Dialogue.JunimoScrap.ExitHut.2": "Люблю это место!",
+  "Dialogue.JunimoScrap.ExitHut.3": "Рай!",
+  "Dialogue.JunimoScrap.ExitHut.4": "Чудесный день!",
+  "Dialogue.JunimoScrap.ExitHut.5": "Доброе утро!",
+  "Dialogue.JunimoScrap.ExitHut.6": "Проснись и пой!",
+  "Dialogue.JunimoScrap.ExitHut.7": "Есть изюминки?",
+  "Dialogue.JunimoScrap.ExitHut.8": "Привет, мир!",
+  "Dialogue.JunimoScrap.ExitHut.9": "Привет~",
+  "Dialogue.JunimoScrap.ExitHut.10": "*зевает*"
+}
