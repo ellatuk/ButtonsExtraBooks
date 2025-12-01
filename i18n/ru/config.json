@@ -20,7 +20,7 @@
   "Config.ExtraGifts.Bonus.Description": "Сколько подарков эта книга позволит вам сделать кому-то за неделю.",
 
   "Config.ArtisanMachines.GrangeMustWin.Name": "Выставочный Лоток Должен Выиграть",
-  "Config.ArtisanMachines.GrangeMustWin.Description": "Если включено, выставочный лоток должен занять 1-е место и иметь 6+ предметов.,
+  "Config.ArtisanMachines.GrangeMustWin.Description": "Если включено, выставочный лоток должен занять 1-е место и иметь 6+ предметов.",
   "Config.ArtisanMachines.Bonus.Name": "Бонус Скорости Оборудования",
   "Config.ArtisanMachines.Bonus.Description": "Процентное сокращение времени работы оборудования для товаров собственного производства.",
 
